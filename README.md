@@ -5,3 +5,8 @@ This is a simple web application that simulates the rolling of three dice. When 
 * Roll button: A button labeled "roll" that triggers the generation of random dice rolls.
 * Three labels: Three labels display the random numbers (simulating dice rolls) when the button is clicked
 * Responsice UI: The page is styled to be user-friendly and responsive with a clean design.
+
+## Technologies used
+* HTML - for the structure
+* CSS - for styling elements
+* JavaScript - for interactivity
